@@ -1650,7 +1650,7 @@
     "pa2Mezz06": [
       { "name":"pa2Mezz06", "prefix":"P-2-M", "min":223, "max":244, "lmin":100, "lmax":694 }
     ],
-    "pa2Mezz07 [
+    "pa2Mezz07": [
       { "name":"pa2Mezz07", "prefix":"P-2-M", "min":245, "max":266, "lmin":100, "lmax":694 }
     ],
     "pa2Mezz08": [
