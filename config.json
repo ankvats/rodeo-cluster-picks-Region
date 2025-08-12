@@ -746,13 +746,13 @@
   },
   "CLT3": {
     "paRack": [
-      { "name":"paRack01", "prefix":"P-1-P", "min":99, "max":117, "lmin":120, "lmax":426 },
-      { "name":"paRack02", "prefix":"P-1-P", "min":118, "max":122, "lmin":120, "lmax":410 },
-      { "name":"paRack03", "prefix":"P-1-P", "min":123, "max":137, "lmin":120, "lmax":410 },
+      { "name":"paRack01", "prefix":"P-1-P", "min":99, "max":110, "lmin":120, "lmax":426 },
+      { "name":"paRack02", "prefix":"P-1-P", "min":112, "max":123, "lmin":120, "lmax":410 },
+      { "name":"paRack03", "prefix":"P-1-P", "min":124, "max":137, "lmin":120, "lmax":410 },
       { "name":"paRack04", "prefix":"P-1-P", "min":138, "max":150, "lmin":120, "lmax":410 },
       { "name":"paRack05", "prefix":"P-1-P", "min":151, "max":162, "lmin":120, "lmax":410 },
-      { "name":"paRack06", "prefix":"P-1-P", "min":163, "max":176, "lmin":144, "lmax":410 },
-      { "name":"paRack07", "prefix":"P-1-P", "min":179, "max":189, "lmin":154, "lmax":410 },
+      { "name":"paRack06", "prefix":"P-1-P", "min":163, "max":175, "lmin":144, "lmax":410 },
+      { "name":"paRack07", "prefix":"P-1-P", "min":176, "max":189, "lmin":154, "lmax":410 },
       { "name":"paRack08", "prefix":"P-1-P", "min":190, "max":202, "lmin":154, "lmax":410 },
       { "name":"paRack09", "prefix":"P-1-P", "min":203, "max":214, "lmin":154, "lmax":410 },
       { "name":"paRack10", "prefix":"P-1-P", "min":215, "max":224, "lmin":124, "lmax":410 }
