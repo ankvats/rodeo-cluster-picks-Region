@@ -792,19 +792,19 @@
       { "name":"paHaz02", "prefix":"P-1-X", "min":801, "max":806, "lmin":100, "lmax":184 }
     ],
     "paHaz03": [
-      { "name":"paHaz03", "prefix":"P-1-X", "min":807, "max":848, "lmin":100, "lmax":474 }
+      { "name":"paHaz03", "prefix":"P-1-X", "min":807, "max":814, "lmin":100, "lmax":474 }
     ],
     "paHaz04": [
-      { "name":"paHaz04", "prefix":"P-1-X", "min":815, "max":848, "lmin":100, "lmax":454 }
+      { "name":"paHaz04", "prefix":"P-1-X", "min":815, "max":822, "lmin":100, "lmax":454 }
     ],
     "paHaz05": [
-      { "name":"paHaz05", "prefix":"P-1-X", "min":823, "max":848, "lmin":100, "lmax":364 }
+      { "name":"paHaz05", "prefix":"P-1-X", "min":823, "max":828, "lmin":100, "lmax":364 }
     ],
     "paHaz06": [
-      { "name":"paHaz06", "prefix":"P-1-X", "min":829, "max":848, "lmin":100, "lmax":294 }
+      { "name":"paHaz06", "prefix":"P-1-X", "min":829, "max":834, "lmin":100, "lmax":294 }
     ],
     "paHaz07": [
-      { "name":"paHaz07", "prefix":"P-1-X", "min":835, "max":848, "lmin":100, "lmax":244 }
+      { "name":"paHaz07", "prefix":"P-1-X", "min":835, "max":840, "lmin":100, "lmax":244 }
     ],
     "paHaz08": [
       { "name":"paHaz08", "prefix":"P-1-X", "min":841, "max":848, "lmin":85, "lmax":174 }
