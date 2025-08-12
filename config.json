@@ -1818,7 +1818,7 @@
   },
   "HSV1": {
     "paRainbow": [
-      { "name":"paRainbow01", "prefix":"P-1-R", "min":201, "max":314, "lmin":100, "lmax":440 },
+      { "name":"paRainbow01", "prefix":"P-1-R", "min":201, "max":210, "lmin":100, "lmax":440 },
       { "name":"paRainbow02", "prefix":"P-1-R", "min":211, "max":220, "lmin":100, "lmax":440 },
       { "name":"paRainbow03", "prefix":"P-1-R", "min":221, "max":314, "lmin":100, "lmax":440 }
     ],
@@ -1849,7 +1849,7 @@
       { "name":"pa2Mezz04", "prefix":"P-2-M", "min":179, "max":200, "lmin":110, "lmax":336 }
     ],
     "pa2Mezz05": [
-      { "name":"pa2Mezz05", "prefix":"P-2-M", "min":201, "max":350, "lmin":100, "lmax":336 }
+      { "name":"pa2Mezz05", "prefix":"P-2-M", "min":201, "max":222, "lmin":100, "lmax":336 }
     ],
     "pa2Mezz06": [
       { "name":"pa2Mezz06", "prefix":"P-2-M", "min":223, "max":244, "lmin":110, "lmax":336 }
@@ -1867,19 +1867,19 @@
       { "name":"pa2Mezz10", "prefix":"P-2-M", "min":323, "max":350, "lmin":110, "lmax":346 }
     ],
     "pa3Mezz01": [
-      { "name":"pa3Mezz01", "prefix":"P-3-M", "min":101, "max":900, "lmin":2, "lmax":592 }
+      { "name":"pa3Mezz01", "prefix":"P-3-M", "min":101, "max":124, "lmin":2, "lmax":592 }
     ],
     "pa3Mezz02": [
-      { "name":"pa3Mezz02", "prefix":"P-3-M", "min":125, "max":800, "lmin":110, "lmax":392 }
+      { "name":"pa3Mezz02", "prefix":"P-3-M", "min":125, "max":150, "lmin":110, "lmax":392 }
     ],
     "pa3Mezz03": [
-      { "name":"pa3Mezz03", "prefix":"P-3-M", "min":151, "max":800, "lmin":110, "lmax":580 }
+      { "name":"pa3Mezz03", "prefix":"P-3-M", "min":151, "max":178, "lmin":110, "lmax":580 }
     ],
     "pa3Mezz04": [
-      { "name":"pa3Mezz04", "prefix":"P-3-M", "min":179, "max":800, "lmin":110, "lmax":648 }
+      { "name":"pa3Mezz04", "prefix":"P-3-M", "min":179, "max":200, "lmin":110, "lmax":648 }
     ],
     "pa3Mezz05": [
-      { "name":"pa3Mezz05", "prefix":"P-3-M", "min":201, "max":350, "lmin":110, "lmax":336 }
+      { "name":"pa3Mezz05", "prefix":"P-3-M", "min":201, "max":222, "lmin":110, "lmax":336 }
     ],
     "pa3Mezz06": [
       { "name":"pa3Mezz06", "prefix":"P-3-M", "min":223, "max":244, "lmin":110, "lmax":336 }
@@ -1915,7 +1915,7 @@
       { "name":"paPRACK05", "prefix":"P-1-P", "min":121, "max":130, "lmin":100, "lmax":440 }
     ],
     "paPRACK06": [
-      { "name":"paPRACK06", "prefix":"P-1-P", "min":131, "max":191, "lmin":100, "lmax":440 }
+      { "name":"paPRACK06", "prefix":"P-1-P", "min":131, "max":140, "lmin":100, "lmax":440 }
     ],
     "paPRACK07": [
       { "name":"paPRACK07", "prefix":"P-1-P", "min":141, "max":150, "lmin":100, "lmax":440 }
